@@ -147,7 +147,6 @@ import { useAuth } from '@clerk/nextjs';
 import { useParams } from 'next/navigation';
 import Link from 'next/link';
 import {
-    StreamChat,
     Chat,
     Channel,
     ChannelHeader,
