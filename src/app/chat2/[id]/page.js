@@ -156,7 +156,8 @@ import {
     LoadingIndicator,
     Window,
 } from 'stream-chat-react';
-import 'stream-chat-react/dist/css/v2/index.css';
+import { StreamChat } from 'stream-chat';
+//import 'stream-chat-react/dist/css/v2/index.css';
 
 // ✅ Moved into component and memoized
 function DynamicChatLogic({ chatClient, channelId, userId, token }) {
