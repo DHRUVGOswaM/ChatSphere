@@ -9,15 +9,27 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@clerk/nextjs": "^6.33.7",
+    "autoprefixer": "^10.4.21",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.546.0",
+    "next": "15.5.5",
+    "next-auth": "^4.24.11",
+    "postcss": "^8.5.6",
     "react": "19.1.0",
     "react-dom": "19.1.0",
-    "next": "15.5.5"
+    "react-hot-toast": "^2.6.0",
+    "stream-chat": "^9.24.0",
+    "stream-chat-react": "^13.9.0",
+    "tailwind-merge": "^3.3.1",
+    "tailwindcss": "^3.4.18",
+    "tailwindcss-animate": "^1.0.7",
+    "uuid": "^13.0.0"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4",
-    "tailwindcss": "^4",
+    "@eslint/eslintrc": "^3",
     "eslint": "^9",
-    "eslint-config-next": "15.5.5",
-    "@eslint/eslintrc": "^3"
+    "eslint-config-next": "15.5.5"
   }
 }

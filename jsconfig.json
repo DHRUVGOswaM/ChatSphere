@@ -1,7 +1,10 @@
 {
   "compilerOptions": {
+    "baseUrl": ".",
     "paths": {
-      "@/*": ["./*"]
+      // This maps "@/*" (e.g., "@/components/Navbar") to the "src/" directory
+      "@/*": ["./src/*"] 
     }
-  }
+  },
+  "include": ["src"]
 }
