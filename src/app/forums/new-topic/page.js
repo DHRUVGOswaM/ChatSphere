@@ -38,8 +38,8 @@ export default function NewTopicPage() {
         */}
         <div className="p-8 bg-gray-800 rounded-xl shadow-xl border border-gray-700">
           <p className="text-xl text-gray-300 mb-6">
-            **Feature Coming Soon!** You're signed in and ready to create.
-            For now, please choose an existing topic.
+            {"**Feature Coming Soon!** You&#39;re signed in and ready to create. For now, please choose an existing topic."}
+
           </p>
           <Link
             href="/forums"
