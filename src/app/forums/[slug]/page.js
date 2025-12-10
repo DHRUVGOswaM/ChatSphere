@@ -126,7 +126,7 @@ export default function TopicChatPage() {
         channel.stopWatching();
       }
     };
-  }, [client, slug, setActiveChannel, isConnecting, topicName]);
+  },[client, slug, setActiveChannel, isConnecting, topicName, channel]);
 
   if (loading || !client || isConnecting) {
     return (

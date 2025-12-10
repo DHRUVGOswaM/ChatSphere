@@ -100,7 +100,7 @@ const Home = () => {
             Connect Instantly. Communicate Seamlessly.
           </h2>
           <p className="max-w-3xl mx-auto text-xl text-gray-300 mb-12">
-            Experience lightning-fast messaging with end-to-end encryption. Whether it's one-on-one or a group chat, ChatSphere keeps you connected.
+            Experience lightning-fast messaging with end-to-end encryption. Whether it&#39;s one-on-one or a group chat, ChatSphere keeps you connected.
           </p>
           
           {/* Call to Action Buttons */}

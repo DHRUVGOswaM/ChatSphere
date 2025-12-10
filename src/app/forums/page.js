@@ -251,7 +251,7 @@ export default function ForumPage() {
         {/* Call to Action */}
         <div className="text-center mt-16 py-10 border-t border-gray-700">
           <h2 className="text-3xl font-bold mb-4 text-white">
-            Can't find your topic?
+            Can&#39;t find your topic?
           </h2>
           <p className="text-gray-400 mb-6">
             Start a new discussion and let the community join in!
